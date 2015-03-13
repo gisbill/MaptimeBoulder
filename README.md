@@ -8,7 +8,5 @@ Some ideas for future meetups:
 -R for mapping -maybe too complex?
 -GDAL, OGR, postGIS
 -MacPorts
--
 -geocaching
--
 -More OSM
