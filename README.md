@@ -10,3 +10,8 @@ GDAL, OGR, postGIS
 MacPorts  
 geocaching  
 More OSM  
+
+announcements?
+maptime milehigh
+GISITR -Steve Coast Keynote
+Esri AGO class?
