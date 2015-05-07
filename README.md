@@ -11,7 +11,7 @@ MacPorts
 geocaching  
 More OSM  
 
-announcements?
-maptime milehigh
-GISITR -Steve Coast Keynote
-Esri AGO class?
+announcements?  
+maptime milehigh  
+GISITR -Steve Coast Keynote  
+Esri AGO class?  
